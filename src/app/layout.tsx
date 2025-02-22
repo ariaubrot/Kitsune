@@ -20,8 +20,8 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-const APP_NAME = "Kitsune";
-const APP_DEFAULT_TITLE = "Kitsune | Anime Streaming";
+const APP_NAME = "ARCLENIME";
+const APP_DEFAULT_TITLE = "Arclenime | Anime Streaming";
 const APP_DESCRIPTION = "Stream your favourite anime with ease and no ads";
 
 export const metadata: Metadata = {
